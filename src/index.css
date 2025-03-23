@@ -68,7 +68,9 @@ button {
 
 button.roll-dice{
   height: 50px;
-  width: 100px;
+  width: auto;
+  white-space: nowrap;
+  padding: 6px;
   background-color: hsla(248, 100%, 60%, 1);
   border: none;
   color: white;
